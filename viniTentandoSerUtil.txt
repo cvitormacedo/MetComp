@@ -23,4 +23,5 @@ taylor algoritmo
 	
 }
 
+NOMES: Mariana Ghellar Oppelt, Paulo Vinicius Pretto, Vitor da Costa Macêdo
 --------------------------------------------------------
