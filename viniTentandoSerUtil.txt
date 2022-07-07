@@ -1,0 +1,26 @@
+--------------------------------------------------------
+
+diga um numero para ax :
+agora diga um numero para N:
+
+taylor algoritmo
+{
+	NumeroFatorial = 1
+	potencia = 1
+	enquanto ( N > 0 )
+	{
+	
+	numeroFatorial = numeroFatorial x N
+	se ( (N - 1) > 0 )
+		ax = ax*ax
+	
+
+	
+	N = N - 1
+	}
+
+	taylor = ax/numeroFatorial	
+	
+}
+
+--------------------------------------------------------
